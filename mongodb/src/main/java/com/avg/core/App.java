@@ -1,4 +1,4 @@
-package com.mkyong.core;
+package com.avg.core;
 
 import java.net.UnknownHostException;
 import java.util.Date;
